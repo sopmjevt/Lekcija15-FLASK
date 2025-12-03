@@ -1,0 +1,2 @@
+Flask
+gunicorn  #knjižnica, ki omogoča pyton kot backand jezik
